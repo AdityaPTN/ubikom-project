@@ -42,6 +42,7 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 # Struktur Data
 
 # Arsitektur Sistem
+![arsitektur-sistem](./gambar/arsitektur-sistem.png)
 
 # Deskripsi Teknologi
 
