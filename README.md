@@ -34,8 +34,9 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 # Metode dan Algoritma
 * Blockchain:
   * Smart contract: digunakan untuk menulis aturan-aturan yang ada pada blockchain dan merekam semua transaksi yang terjadi pada sistem.
+  * Solidity: Bahasa pemrograman yang digunakan untuk membuat smart contract.
   * Metamask: sebagai wallet digital yang digunakan untuk terhubung pada akun pengguna.
-  * Testnet localhost: jaringan development yang digunakan untuk percobaan transaksi
+  * Testnet: jaringan development yang digunakan untuk percobaan transaksi
 * Web Development: Menggunakan React js
 * QR Code
 # Struktur Data
@@ -45,6 +46,12 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 ![arsitektur-sistem](./gambar/sistem.png)
 
 # Deskripsi Teknologi
-
+* Blockchain: blockchain adalah mekanisme basis data lanjutan yang memungkinkan berbagi informasi secara transparan dalam jaringan bisnis.
+  * Smart Contract: Smart contract merupakan sebutan untuk kontrak yang terprogram dimana setiap perjanjian dicatat dalam kode komputer di Blockchain.
+  * Solidity: Solidity adalah bahasa pemrograman open-source yang digunakan untuk membangun aplikasi pada platform blockchain Ethereum.
+  * Metamask: MetaMask adalah sebuah dompet mata uang kripto yang digunakan untuk berinteraksi dengan rantai blok Ethereum. 
+  * Testnet: Testnet merupakan wadah untuk eksperimen yang sekaligus bertujuan untuk meminimalkan risiko dampak uji coba terhadap keamanan jaringan.
+* Web Development:
+  * React Js: React adalah libray JavaScript yang digunakan untuk membangun user interface yang interaktif berbasis component.
 
 # User Experience (UX) Design
