@@ -8,8 +8,8 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 
 
 # Branding
-* Merk: Mahal Chain
-* Inspirasi merk: Mahal merupakan singkatan makanan halal, jadi aplikasi ini memastikan makanan halal menggunakan blockchain
+* Merk: HalalCS
+* Inspirasi merk: Halal supply chain,, merupakan rantai pasok makanan halal
 * Tagline: "Makanan aman, pastikan halal"
 * Campaign: Bagaimana melacak dan memastikan makanan yang dikonsumsi aman dan halal
 * Target user:
@@ -25,7 +25,7 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 # User Story
 |         **Sebagai**        |                            **Saya ingin bisa**                            |                                            **Sehingga**                                           | **Prioritas** |
 |:--------------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-------------:|
-|     Sistem supply chain    |     Menyediakan   informasi terkait seluruh rantai pasok makanan          |     Dapat memberikan   transapatansi rantai pasok                                                 |     ⭐ ⭐ ⭐     |
+|     Sistem supply chain    |     Menyediakan   informasi terkait seluruh rantai pasok makanan          |     Dapat memberikan   transparansi rantai pasok                                                 |     ⭐ ⭐ ⭐     |
 |     Sistem supply chain    |     Menyediakan   informasi rinci terkait produk makanan                  |     Dapat memberikan   informasi produk kepada pengguna                                           |     ⭐ ⭐ ⭐     |
 |     Sistem supply chain    |     Memberikan kode QR   atau kode produk unik kepada pengguna            |     Pengguna dapat   melacak produk makanan dari asal-usulnya hingga sampai ke tangan pengguna    |     ⭐ ⭐       |
 |     Sistem                 |     Menyimpan data   terkait produk makanan oleh produsen                 |     Data dapat tersimpan   dengan baik di blockchain                                              |     ⭐ ⭐ ⭐     |
@@ -33,16 +33,18 @@ Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan 
 
 # Metode dan Algoritma
 * Blockchain:
-  * Smart contract: Solidity
-  * Wallet: Metamask
-  * Coin: Etherium testnet
-* Web Development
-  * React
-
+  * Smart contract: digunakan untuk menulis aturan-aturan yang ada pada blockchain dan merekam semua transaksi yang terjadi pada sistem.
+  * Metamask: sebagai wallet digital yang digunakan untuk terhubung pada akun pengguna.
+  * Testnet localhost: jaringan development yang digunakan untuk percobaan transaksi
+* Web Development: Menggunakan React js
+* QR Code
 # Struktur Data
+![struktur-data](./gambar/data.png)
 
 # Arsitektur Sistem
+![arsitektur-sistem](./gambar/sistem.png)
 
 # Deskripsi Teknologi
+
 
 # User Experience (UX) Design
