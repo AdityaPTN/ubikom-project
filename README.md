@@ -2,9 +2,9 @@
 Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan untuk memastikan keamanan dan kehalalan produk.
 
 # Latar Belakang
-* Fakta-fakta terkait masalah keracunan makanan atau penyakit yang disebabkan oleh makanan yang terkontaminasi
-* Serta pemalsuan atau kecurangan produk makanan yang menjadikan makanan tidak aman dan halal
-* Dibutuhkan transparansi rantai pasok makanan agar konsumen mengetahui asal-usul makanan, metode produksi dan perjalanan produk hingga sampai ke tangan mereka.
+Kehalalan makanan adalah suatu isu krusial yang memiliki dampak signifikan, terutama bagi masyarakat yang menjalankan keyakinan agama atau kepercayaan tertentu yang ketat dalam mengatur konsumsi makanan. Memastikan bahwa makanan yang dikonsumsi adalah benar-benar halal menjadi prinsip utama bagi banyak individu dan kelompok komunitas. Oleh karena itu, dalam rangka memenuhi tuntutan akan kepatuhan terhadap aturan kehalalan, terutama dalam industri makanan, diperlukan inovasi dalam mengawasi dan memastikan asal-usul makanan yang dikonsumsi.
+
+Dalam upaya untuk meningkatkan transparansi dan keandalan dalam rantai pasokan makanan, teknologi blockchain telah muncul sebagai solusi yang sangat efektif. Blockchain adalah sebuah sistem terdesentralisasi yang mencatat transaksi secara digital dan aman, menciptakan jejak transparan dari setiap langkah dalam perjalanan makanan, mulai dari produksi hingga konsumsi akhir. Keunikan utama blockchain adalah ketidakmampuannya untuk mengubah atau memalsukan data yang sudah direkam, sehingga menciptakan sistem yang sangat andal dan terpercaya.
 
 
 # Branding
