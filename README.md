@@ -17,7 +17,7 @@ Supply chain atau rantai pasok merupakan serangkaian proses dan kegiatan produks
 * User Experience theme:
   * Antarmuka yang mudah digunakan dan dikonfigurasi
   * Terdapat qr code pada makanan yang dapat discan oleh handphone untuk kemudahan akses dan pemantauan
-  * Memberikan informasi terperinci dan mudah dimengerti tentang makanan yang dikonsumsi
+  * Memberikan informasi terperinci dan mudah dimengerti tentang produk yang diproses
 
 
 # User Story
@@ -54,4 +54,4 @@ Supply chain atau rantai pasok merupakan serangkaian proses dan kegiatan produks
 # User Experience (UX) Design
   * Antarmuka yang mudah digunakan dan dikonfigurasi
   * Terdapat qr code pada makanan yang dapat discan oleh handphone untuk kemudahan akses dan pemantauan
-  * Memberikan informasi terperinci dan mudah dimengerti tentang makanan yang dikonsumsi
+  * Memberikan informasi terperinci dan mudah dimengerti tentang produk yang sedang diproses
