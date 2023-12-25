@@ -2,8 +2,9 @@
 Artikel ini membahas pembangunan teknologi blockchain pada rantai pasok makanan untuk memastikan keamanan dan kehalalan produk.
 
 # Latar Belakang
-Supply chain atau rantai pasok merupakan serangkaian proses dan kegiatan produksi mulai dari membuat bahan baku dari produsen, pengiriman oleh distributor kepada retail. hingga pembelian oleh konsumen. 
+Supply chain atau rantai pasok merupakan serangkaian proses dan kegiatan produksi mulai dari membuat bahan baku dari produsen, pengiriman oleh distributor kepada retail. hingga pembelian oleh konsumen. Supply chain management yang baik dapat meningkatkan proses produksi dengan efisien dan membuat keuntungan yang lebih besar. oleh karena itu, perlu diterapkan teknologi yang dapat membuat supply chain lebih aman dan transparan demi membuat produksi menjadi lebih baik. Hal ini dapat diterapkan menggunakan teknologi blockchain. 
 
+Blockchain seperti buku besar terdistribusi yang catatannya tidak dapat diubah, dihapus maupun dimanipulasi. Informasi yang tersimpan dalam blockchain akan tersimpan secara permanen dengan keamanan tinggi. Karakteristik blockchain mencakup desentralisasi, transparansi, kredibilitas, transaksi yang dapat dilacak dan tidak dapat dipalsukan
 
 # Branding
 * Merk: BCSM(Block Chain Supply Management)
